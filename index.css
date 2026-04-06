@@ -3,7 +3,7 @@
 }
 
 #p {
-    
+    margin-left: 10px;
     color: inherit;
     animation: sliding 1s ease infinite alternate,
                transisi 2s ease normal;
